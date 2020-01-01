@@ -1,1 +1,2 @@
 # docker-laravel-handson
+dockerの学習のためにLaravelの新規プロジェクトを作成できるLEMP環境を構築しました。
